@@ -1,0 +1,25 @@
+@import "variables";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: $font-family;
+}
+
+body {
+  width: 100%;
+}
+
+.App {
+  height: 100vh;
+  padding: 60px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: $gap-between-container;
+}

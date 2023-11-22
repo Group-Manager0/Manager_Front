@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "avian-amulet-405213",
+  "private_key_id": "de89b6625a3dfcbf418c44f10a670147cff22bf8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDywyk6B+/prQxf\nFwnF1vDZF4RIHRWYptMRvQl5X5n5vgivWNh0D3zerkpZuWK0cWNuSWa6nmzAPoBt\nA5DNZiz8kFvhAAScvadAJtjqe1HLCUJ2RdZWddM3+xBquOHgavw58G/985fokDq1\nEp6MxzSUH+19J2qketMWAOqNh+XHg22H07leBySf1QQ/yZhAWaeY6kSWyHAK62kT\nlpb2zYYfm6iY7A1Y6sqbdr5zCvBF2WteAlBsTM/kY528ZrniRNOs6Nn0umUwXFDm\n/r+Bx3TmEi/7fSEW6x35fz4rkOcxZlZ3DvNkwoQE45/7zGU3GkG0ZpLYatbnfs91\nighiTREZAgMBAAECggEACbGjXs7cVK91VAK+gCjyGykmPh7zMtJOkWHEFBWuN1vQ\nSvg4RIIt0VKSY3zUpTH173x83qze2NpmFHRU/u66kydMk/KFPKESIayrcsmT3ZC0\nF7b4NSGlWpHq+OgDFQwQoFuqjTCB+2ZvAbYJoMN/pP6VZC8DwiepcDJ/K0Gm+k2A\nU+GrcQW7RD7geWi9To+bLC7Pc2MIRy1EKddi/bazmUfx4EiPLZVBsBoywXGIlcoK\ngma8q/7v0Qd3XUmls8tBOUgITJ88TEDiE3YHTLIaM3/hvlbtauldyDztJmyggVoS\n7p/dwUYQZWJRn5Y/nlA45V1kEW0TygOPpYMyH9VLgQKBgQD8jiwMI9MiuAR/LGzt\nTtwMutvkrCN1FbvovnMXO2ISg+VGwYvzJ8cqbxJaXeNLp5jhqpwXyFLbb7z6ovEO\ntW9XBEhw2P2sk/d8CYI03GI1VNsorVACOxleL0QHxXfpsb9jIqGPNLgbcMHmlxrK\nKbHwK/zAErDaS5DyblPSxqFHsQKBgQD2EsukvzlcAHOdy+5aNfl5PL/cCIfctddt\no1eniStZAJyKtWN7Hpu5eWOfTMmJGUA3GIXojO2+2kKf5Ti6ADs4U5gjAPq/giju\nqBDD5h1C7qB08S4GUjR7QWgsMOd/zK3eOtFUCInOEu/Vk0UA1H2fiY8mInKOQc0H\nR7Eb+dUh6QKBgAClvKcrUFc+cYSB8KWLFjVSJU4ows6CB8FI+7KLjGzPub68sEcn\nSvNo5Xsl0ndXLqUlctD8ynmVh758vHF1NZvbfvQLGlte5buDqrnH9th8JzOrfhED\nZcVACcSbVPtcYUk3xYJAeFhZqaWVrZPnF3WuJy+23I0ytGRqs/xOVguBAoGAXyYD\nYk+ioUV3bzOUlYM7VLq9wRn3VstlYnp/gUOT5FVNMoFS1x+NvVkHwWgSoZWG9Abi\neHpNz7dbfbJHjfxa6bvBHv/Y9UYiB64q1WTcOa5FkxJS5pTQwDwZSMUcLpl5PW3m\n1SR8DJfb7uyECP8hGBg7ptY5D3K4EbGR9SxUUkkCgYBOnNDfKpgIZX9bU4biCIfP\nusHdjVd9svRI9wsW6mIrBbNLNrf2ouj+DKxX6x5wIJFB9XlV/NhtlUYABIJksZdW\nqZUX+LF7FcZ6iprCjrgh78Bg1bTkxbl3mVc4+YILcj9WA3gdiKl3xbxUhxak/Rky\nZCLt3wESpIvgerN33dBodQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "conta-teste@avian-amulet-405213.iam.gserviceaccount.com",
+  "client_id": "106605571536991833933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conta-teste%40avian-amulet-405213.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

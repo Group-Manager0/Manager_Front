@@ -1,0 +1,41 @@
+@import "../../../styles/variables";
+
+.card-container {
+  padding: $padding-item;
+  width: 300px;
+
+  display: flex;
+  align-items: center;
+  gap: 15px;
+
+  border: 2px solid $secondary-color;
+  border-radius: $border-radius;
+
+  cursor: pointer;
+
+  .checkbox {
+    width: 20px;
+    height: 20px;
+
+    border: 2px solid $secondary-color;
+    border-radius: $border-radius;
+  }
+
+  .checkbox-checked {
+    border: 2px solid $primary-color;
+    background-color: $primary-color;
+  }
+
+  p {
+    font-weight: bold;
+  }
+
+  span {
+    color: $text-secondary-color;
+    font-size: 14px;
+  }
+}
+
+.card-container-checked {
+  border: 2px solid $primary-color;
+}
